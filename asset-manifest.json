@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/liamlgalvin/Path-Visualiser/static/css/main.9fb5e53d.chunk.css",
+    "main.js": "/liamlgalvin/Path-Visualiser/static/js/main.5031070a.chunk.js",
+    "main.js.map": "/liamlgalvin/Path-Visualiser/static/js/main.5031070a.chunk.js.map",
+    "runtime-main.js": "/liamlgalvin/Path-Visualiser/static/js/runtime-main.998722c6.js",
+    "runtime-main.js.map": "/liamlgalvin/Path-Visualiser/static/js/runtime-main.998722c6.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/liamlgalvin/Path-Visualiser/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.653dfa8e.chunk.js": "/liamlgalvin/Path-Visualiser/static/js/2.653dfa8e.chunk.js",
+    "static/js/2.653dfa8e.chunk.js.map": "/liamlgalvin/Path-Visualiser/static/js/2.653dfa8e.chunk.js.map",
+    "index.html": "/liamlgalvin/Path-Visualiser/index.html",
+    "precache-manifest.ff195147d3878dfb5942547880a5644a.js": "/liamlgalvin/Path-Visualiser/precache-manifest.ff195147d3878dfb5942547880a5644a.js",
+    "service-worker.js": "/liamlgalvin/Path-Visualiser/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/liamlgalvin/Path-Visualiser/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.9fb5e53d.chunk.css.map": "/liamlgalvin/Path-Visualiser/static/css/main.9fb5e53d.chunk.css.map",
+    "static/js/2.653dfa8e.chunk.js.LICENSE.txt": "/liamlgalvin/Path-Visualiser/static/js/2.653dfa8e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.998722c6.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.653dfa8e.chunk.js",
+    "static/css/main.9fb5e53d.chunk.css",
+    "static/js/main.5031070a.chunk.js"
+  ]
+}
