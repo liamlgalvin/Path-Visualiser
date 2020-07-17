@@ -2,13 +2,13 @@
 live version here:
 https://liamlgalvin.github.io/Path-Visualiser/
 
-# how it works
+# Yow it works
 Using a-star and Dijkstras algorithms finds shortest path between 2 points.
 
 Move the start and finish nodes by dragging and dropping.
 Draw walls by clicking on a node with your mouse.
 
-you can clear the board by pressing reset.
+You can clear the board by pressing reset.
 
 ---
 
