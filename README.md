@@ -1,6 +1,16 @@
-##
+# Path-Visualiser
+live version here:
 https://liamlgalvin.github.io/Path-Visualiser/
 
+# how it works
+Using a-star and Dijkstras algorithms finds shortest path between 2 points.
+
+Move the start and finish nodes by dragging and dropping.
+Draw walls by clicking on a node with your mouse.
+
+you can clear the board by pressing reset.
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -70,4 +80,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# Path-Visualiser
+
