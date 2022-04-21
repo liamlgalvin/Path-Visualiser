@@ -2,7 +2,7 @@
 live version here:
 https://liamlgalvin.github.io/Path-Visualiser/
 
-# Yow it works
+# How it works
 Using a-star and Dijkstras algorithms finds shortest path between 2 points.
 
 Move the start and finish nodes by dragging and dropping.
